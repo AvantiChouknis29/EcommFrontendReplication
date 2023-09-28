@@ -1,4 +1,4 @@
-# EcommFrontendReplication
+# Ecommerce Frontend Replication
 As a web developer looking to enhance my skills, I took on the challenge of replicating the Dot and Key website. This project served as a practical exercise to test and refine my HTML and CSS abilities. I closely analyzed the original website's design, layout, and visual elements to recreate them as closely as possible.
 ## Features
 
