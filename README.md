@@ -10,7 +10,7 @@ As a web developer looking to enhance my skills, I took on the challenge of repl
 
 - **Images and Media**: High-quality images and media assets have been included, optimized for fast loading.
 
-- 
+
 ## Technologies Used
 
 - HTML5
